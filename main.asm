@@ -1,4 +1,3 @@
-######################Assignment 3 main function###############
 			.data
 			.align 2
 inputFile:		.asciiz "feep.pgm"
